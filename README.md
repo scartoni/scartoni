@@ -1,7 +1,4 @@
-## Oiii eu sou Antoniel Silva, estudante de desenvolvimento de sistema!
-
-- Estudando desenvolvimento de sistema pelo senac
-- Contate-me no telegram https://t.me/scartonii
+## Oiii eu sou Antoniel, bem vindo ao meu git!
   
   </div>
   
